@@ -16,7 +16,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #DDDDDD10;
+  background-color: #dddddd10;
 }
 
 body{
@@ -67,8 +67,7 @@ header{
 }
 
 /* #navigation{
-  position: relative;
-  top: 0;
+
 } */
 
 #menu{
@@ -107,6 +106,19 @@ header{
 #menu li a:hover:before{
   right: 0;
 }
+
+/* .search_bar{
+  float: right;
+  position: relative;
+  bottom: 15px;
+} */
+
+/* .search_button{
+  float: left;
+  padding: 9px;
+  position: relative;
+  bottom: 18px;
+} */
 
 .row{
   height: 650px;
